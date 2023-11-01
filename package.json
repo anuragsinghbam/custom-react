@@ -1,0 +1,16 @@
+{
+  "name": "custom-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.22.15",
+    "parcel": "^2.10.1"
+  }
+}
